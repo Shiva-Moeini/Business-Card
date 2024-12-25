@@ -1,17 +1,11 @@
 <template>
-  <v-app>
-    <v-main>
-      <v-container>
-        <CardComponents />
-      </v-container>
-    </v-main>
-  </v-app>
+  <CardComponents />
 </template>
 
 <script>
 import CardComponents from './components/CardComponents.vue'
 export default {
-    name: 'App',
+    name: 'app',
     components: {
         CardComponents,
     },
