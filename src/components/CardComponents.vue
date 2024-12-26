@@ -3,12 +3,13 @@
     <v-container>
         <v-card>
             <v-row class="ma-0 pa-0">
-                <v-col cols="6" class="bg-blue d-flex justify-center align-center">
-                   
-                    <h1>Looking for a reliable developer?<br>
+                <v-col cols="6" class="bg-teal-darken-4 justify-center align-center">
+                    <v-img width="200"  class="rounded-circle mx-auto"   src="shiva.jpg"></v-img>
+
+                    <h1>Looking for a developer?<br>
                     Let's connect!</h1>
                 </v-col>
-                <v-col cols="6" class="d-flex flex-column justify-center align-center">
+                <v-col cols="6" class="bg-yellow d-flex flex-column justify-center align-center">
                     <div>
                         <div>
                             <h2>Shiva Moeini</h2>
